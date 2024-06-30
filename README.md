@@ -1,4 +1,5 @@
 Introduction:
 Leaf disease classification involves the identification and categorization of diseases affecting plant leaves, utilizing techniques from machine learning and computer vision. This process is essential in agriculture to ensure early detection and effective management of plant diseases, ultimately leading to better crop yields and reduced economic losses. By analyzing images of leaves, sophisticated algorithms can detect subtle patterns and symptoms indicative of specific diseases. Advanced models, often trained on large datasets, can classify leaf diseases with high accuracy, enabling farmers and agronomists to take timely actions to mitigate the spread and impact of these diseases.
+
 Objective:
 The goal of this assignment is to design, train, and evaluate a Convolutional Neural Network (CNN) model on the Rice Lead Disease dataset using Batch Normalization, Dropout, and Data Augmentation techniques. These techniques will help improve the model's performance and generalization. This assignment will help you understand the importance of batch normalization, dropout, and data augmentation in improving the performance and generalization of CNN models.
