@@ -8,6 +8,9 @@ Instructions:
 1.	Load and Preprocess the Data
 a.	Download the dataset and split it into 80 % for training and 20 % for testing. It contains ten main disease classes, as shown in Fig 1.
 
+![image](https://github.com/azizisya/UPI_summer_course/assets/6631236/2e879569-0d39-4dd5-994b-baaeb408dffd)
+
+
 3.	Build the CNN Model:
 a.	Propose a CNN model and apply it with batch normalization, dropout and data augmentation to prevent overfitting.
 
